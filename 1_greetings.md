@@ -1,7 +1,7 @@
 
 ## 환영!
 
-**22학번 신입생 여러분을 환영합니다!**   
+**23학번 신입생 여러분을 환영합니다!**   
 
 여기서 여러분의 멋진 미래를 준비하기 바랍니다.  
 힘들었던 과거의 기억이 있다면 모두 극복하기 바랍니다.  
@@ -31,9 +31,10 @@
 
 ## 선생님 인사
 ![신교수 박사모자](https://user-images.githubusercontent.com/10287629/103825781-da345780-50b8-11eb-8f34-1e1a98b2049e.png)
-- 이름: 신해웅(辛海雄)
+- 이름: 최성은
 - 최근 강의하는 과목
   - 파이썬
+  - 인공지능, 머신러닝
   - [장고 웹 개발](https://logistex2021.pythonanywhere.com/)
   - [데이터 분석](https://colab.research.google.com/github/logistex/py4ds/blob/main/py4ds.ipynb?hl=ko#scrollTo=db03870d)
   - [데이터 시각화](https://logistex2021.pythonanywhere.com/chart/alt-interactive/)
@@ -57,19 +58,12 @@
   - 50 대: *"언제까지 이렇게 살아야 하나?"*
 
 - 연락처
-  > **공학박사 신해웅**  
-한양여자대학교 빅데이터과 교수  
+  > **한양여자대학교 빅데이터과 최성은**  
+한양여자대학교 빅데이터과 조교수  
 서울특별시 성동구 살곶이길 200 (우: 04763)  
-이메일: logistex@hywoman.ac.kr    
-핸드폰: 010-3770-2210    
+이메일: choise28@hywoman.ac.kr      
 연구실: 02-2290-2385
 
-  > **Haewoong Shin, Ph.D.**  
-Professor, Dept. of Big Data, Hanyang Women's University  
-200, Salgoji-gil, Seongdong-Ku, Seoul, 04763, Republic of Korea  
-e-mail: logistex@hywoman.ac.kr  
-Cellular: 82-10-3770-2210    
-Office: 82-2-2290-2385  
 
 ## 학생 인사
 - 이름, 출신고등학교(지역, 졸업 연도)

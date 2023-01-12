@@ -4,6 +4,7 @@
 ## [학과 소개](./2_big_data.md)
 ## [과정 소개](./3_course.md)
 ## [조언](./4_advice.md)
+## [빅데이터와 인공지능](./8_bigdata_ai.md)
 ## [웹 사이트 제작](./5_website.md)
 ## [데이터 과학 소개](./6_visualize_data.md)
 ## [마무리](./7_epilog.md)
@@ -13,14 +14,11 @@
 [수업에서 완성할 웹 사이트](https://logistex.github.io/test0100/)
 
 ---
-
+<!-- 
 
 [출석부 확인](https://docs.google.com/spreadsheets/d/1Bx5xXdcmkvvaHV0e-xrcyFfQGbgV5OEA/edit#gid=1170848314)
 
-<strong>지난 수업 동영상</strong>  
-수강생 얼굴이 웹에 노출되는 것에 대한 학부모 항의가 있었기에 수업 동영상은 삭제합니다. 
-
----
+--- -->
 
 [2022학년도 신입생 교육](https://logistex.github.io/big_data/)
 

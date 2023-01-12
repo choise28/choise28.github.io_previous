@@ -30,7 +30,7 @@
 ![](https://gpimg.godpeople.com/2020/04/sns_200429.jpg)
 
 ## 선생님 인사
-![신교수 박사모자](https://user-images.githubusercontent.com/10287629/103825781-da345780-50b8-11eb-8f34-1e1a98b2049e.png)
+<!-- ![신교수 박사모자](https://user-images.githubusercontent.com/10287629/103825781-da345780-50b8-11eb-8f34-1e1a98b2049e.png) -->
 - 이름: 최성은
 - 최근 강의하는 과목
   - 파이썬

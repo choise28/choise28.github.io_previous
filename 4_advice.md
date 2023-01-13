@@ -59,12 +59,12 @@
 
 ![캥거루](https://user-images.githubusercontent.com/10287629/104017939-57b4b080-51fc-11eb-9bdb-0f2af03a3ef0.jpg)
 
-- 맞벌이가 대세인 세상
+<!-- - 맞벌이가 대세인 세상
     - 맞벌이를 해야 평균적인 경제적 수준을 누릴 수 있음
     - 직업이 없는 여성은 남친이 고민하고, 예비 시어머니가 싫어함
     - 결혼을 위한 첫째 준비는 취업
 
-![결혼 취업](https://user-images.githubusercontent.com/10287629/104018519-4324e800-51fd-11eb-8b7e-555c161e2054.jpg)
+![결혼 취업](https://user-images.githubusercontent.com/10287629/104018519-4324e800-51fd-11eb-8b7e-555c161e2054.jpg) -->
 
 - 일반 사무직 취업의 위험성
     - 사무직 취업은 특성화고 졸업생들에 비하여 경쟁력이 낮음

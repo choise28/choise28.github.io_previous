@@ -79,7 +79,7 @@
             <td style="text-align: center; vertical-align: middle;"><strong>비전 <br>체계</strong></td>
             <td>
                 <br>
-                <img width="100%" src="https://www.hywoman.ac.kr/resources/js/cheditor/attach/20210709134545_snbaihuc.png">
+                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447061-135df3a1-494a-4952-863f-902aca340c13.PNG">
                 <br>
             </td>
         </tr>
@@ -88,7 +88,7 @@
             <td style="text-align: center; vertical-align: middle;"><strong>인재<br>양성<br>유형</strong></td>
             <td>
                 <br>
-                <img width="100%" src="https://www.hywoman.ac.kr/resources/js/cheditor/attach/20210709134932_eefmgpeg.png">
+                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447369-0559287c-fc87-4978-814e-8ac4d29530f7.PNG">
                 <br>
             </td>
         </tr>
@@ -107,7 +107,7 @@
                 <p>&nbsp;&nbsp;&nbsp; - 데이터 과학자 = 데이터 엔지니어 + 데이터 분석가 + AI 엔지니어</p>
                 <p>&nbsp;&nbsp;&nbsp; - 빅데이터과 졸업생들의 궁극적 지향 목표</p>
               </ul>
-                <img width="50%" src="https://www.hywoman.ac.kr/resources/js/cheditor/attach/20210614095425_hmxwysae.png">
+                <img width="100%" src="https://user-images.githubusercontent.com/58820851/212447551-2b52e7b0-1ccb-49b5-8171-0bbd30dc77e3.PNG">
               </td>
         </tr>
         <tr></tr>
@@ -181,12 +181,18 @@
 ## 다양한 교육 서비스
 
 - 3학년을 위한 **데이터과학 사회수요맞춤형 교육 과정**  
-  [![22년 사회맞춤형 설명회](https://user-images.githubusercontent.com/10287629/146944180-54459a37-d922-4c2e-b2de-5cc7e955863f.png)](https://colab.research.google.com/github/logistex/BD22/blob/main/22%EB%85%84%EB%8F%84%20%EC%82%AC%ED%9A%8C%EB%A7%9E%EC%B6%A4%ED%98%95%20%EC%84%A4%EB%AA%85%ED%9A%8C.ipynb)
+  [![22년 사회맞춤형 설명회](https://user-images.githubusercontent.com/58820851/212447988-c8dda1fd-3ba0-44c0-b825-c6e014a157fc.PNG)](https://colab.research.google.com/drive/1d8zlh1k5in5DbmkzHrCNVzcJ4zEeArllhttps://drive.google.com/file/d/1d8zlh1k5in5DbmkzHrCNVzcJ4zEeArll/view?usp=sharing)
 
-- 2학년을 위한 **빅데이터 ICT 전공 트랙**  
-  [![](https://user-images.githubusercontent.com/10287629/144851381-67259549-d107-41ad-8f4e-9770c707a767.png)](https://colab.research.google.com/drive/1B6uhej25A2yb0mVxA-UXKO3h7DHvlsrj)
+- 2학년을 위한 **ICT 융복합 트랙**  
+  - ICT 마이크로 전공이란?
+  - 4차 산업혁명 시대에 대응할 수 있는 신기술을 교육하는 별도 교육과정으로 소프트웨어융합과, 스마트IT과, 빅데이터과, AI융합과 학생에게 전공영역의 확대를 제공하는 학생맞춤형 교육과정입니다.
+
+  - 모집 대상 및 수강신청
+    - 공학계열(소프트웨어융합과, 스마트IT과, 빅데이터과, AI융합과) 2학년 이상 재학생
+
+  ![ICT융복합트랙](https://user-images.githubusercontent.com/58820851/212447992-3e0a8f7e-3d91-4e84-ab53-932da056db7c.PNG)
 
 - 1학년을 위한 **신입생 전공 적응 특강**  
-  [![](https://uploads.disquscdn.com/images/c29e847ae69540dec737081fa58069420111adfddba832b59e82df58f1495fcd.png)](https://logistex.github.io/big_data/)
+  ![](https://user-images.githubusercontent.com/58820851/212447993-2afd6938-ac74-4794-9562-2b8741e5930d.PNG)
 
-[![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/)
+<!-- [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/) -->

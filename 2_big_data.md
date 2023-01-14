@@ -195,4 +195,9 @@
 - 1학년을 위한 **신입생 전공 적응 특강**  
   ![](https://user-images.githubusercontent.com/58820851/212447993-2afd6938-ac74-4794-9562-2b8741e5930d.PNG)
 
+- 졸업생을 위한 **학사학위 전공심화과정**
+
+![전공심화1](https://user-images.githubusercontent.com/58820851/212448592-cc302dca-259c-4e40-9a2a-4f462d9907f6.PNG)
+![전공심화2](https://user-images.githubusercontent.com/58820851/212448594-0c0d5e11-bc0b-478c-a153-3d5f0387a9df.PNG)
+
 <!-- [![going home](https://user-images.githubusercontent.com/10287629/104793991-511fcd80-57e8-11eb-86c8-27356c8dd83d.png)](https://logistex.github.io/smart_IT/) -->

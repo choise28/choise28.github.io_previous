@@ -35,7 +35,7 @@
   - 자동번역
 
   - 자율주행
-  ![자율주행](https://cdn.aitimes.com/news/photo/202206/145065_151816_1416.jpg)
+  <!-- ![자율주행](https://cdn.aitimes.com/news/photo/202206/145065_151816_1416.jpg) -->
 
 
 - 인공지능을 즐겁게 공부하기 위해 필요한 준비물
@@ -363,6 +363,7 @@
   - 다운로드받은 사진 선택하여 모델로 예측해보기 
 
 <img width="1210" alt="TM8" src="https://user-images.githubusercontent.com/58820851/212539261-357a38ef-ec20-48c4-a5b3-8d8cb327a728.PNG">
+
 <img width="1213" alt="TM7" src="https://user-images.githubusercontent.com/58820851/212539263-0be9b576-1945-4d67-9cd8-8985712b3df3.PNG">
 
 

@@ -5,6 +5,8 @@
 - 자신을 성인으로 인정해야 함
     - 자율을 추구해야 함  
       (자유보다 자율)
+    - 자유는 사전적 의미로 ‘외부적인 구속이나 무엇에 얽매이지 아니하고 자기 마음대로 행동함’이라는 뜻
+    - 반면 자율은 ‘자기 스스로 자신을 통제하여 절제함’이라는 뜻을 지니고 있음
     - 책임을 감수해야 함
 
 ![자유와 책임](https://user-images.githubusercontent.com/10287629/104014848-0fdf5a80-51f7-11eb-838d-d30b64ef34f8.jpg)
@@ -135,9 +137,13 @@
 ![태도 정의](https://user-images.githubusercontent.com/10287629/104014147-e83bc280-51f5-11eb-8974-66c3968d969a.png)
 
 - 우리의 위상은 태도로 결정됨  
+  - 당신의 앱티튜드 Aptitude 재능(才能)이 아니라
+  애티튜드 Attitude  태도(態度)-마음가짐이
+  앨티튜드 Altitude  고도(高度)- 높이를 결정한다! 
 ![altitude](https://user-images.githubusercontent.com/10287629/104014130-e4a83b80-51f5-11eb-84a1-ad54ffd1f67b.jpg)
 
-- 역량 = 지식 + 기술 + 태도  
+
+- 역량(competence) = 지식(Knowledge) + 기술(Skill) + 태도(Attitude)  
 ![인간의 가치 태도](https://user-images.githubusercontent.com/10287629/104014143-e70a9580-51f5-11eb-9488-8c0d39ff475a.png)
 
 - 다양한 태도  

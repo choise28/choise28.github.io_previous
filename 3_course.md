@@ -1,6 +1,10 @@
 ## 교육 과정
 
+![curri1](https://www.hywoman.ac.kr/resources/namoupload/2991/1649308508659_0.jpg)
+
 ![curri](https://user-images.githubusercontent.com/10287629/147853591-92f261a3-d65d-4b2f-b0be-fdd9fb1e65f8.png)
+
+
 
 - 인재 양성 유형: **빅데이터 전문가**
 - 직무
@@ -22,7 +26,7 @@
       *창의 컴퓨팅*, *창의적 문제해결*, 데이터 과학 개론, 데이터 분석[태블로]
     - 웹 페이지 저작 계열  
       <u>웹 프론트-엔드 개발</u>, 자바스크립트 프로그래밍
-    - UI/IX 디자인 계열  
+    - UI/UX 디자인 계열  
       <u>UI/UX 기획/디자인</u>
     - 프로그래밍 언어 계열  
       <u><b>파이썬 프로그래밍</b></u> (응용), <u>자바 프로그래밍</u> (응용)

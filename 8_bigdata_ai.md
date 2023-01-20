@@ -39,7 +39,7 @@
 
 
 - 인공지능(AI)이란? 
-  - https://youtu.be/Sxlz-r5FeCo
+  - [인공지능 소개](https://youtu.be/Sxlz-r5FeCo)
 
 
 
@@ -316,7 +316,7 @@
 
 
 ## 티처블 머신 테스트 영상 
-  - https://youtu.be/rljiTrHFX1Q
+  - [티처블머신 테스트 영상 보기](https://youtu.be/rljiTrHFX1Q)
 
 
 
@@ -473,7 +473,7 @@
 
 
 - 머신러닝머신 테스트 
-  - https://youtu.be/X16Jjf7F7FM
+  - [머신러닝머신 테스트 영상 보기](https://youtu.be/X16Jjf7F7FM)
 
 
 - 우리는 손톱을 깨물었는지 판단해주는 모델을 응용해서 습관을 교정하는 애플리케이션(앱) 또는 프로그램을 만들었음 

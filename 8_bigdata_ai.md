@@ -413,6 +413,25 @@
 <br>
 <br>
 
+## 고양이상, 강아지상 얼굴 구분하기 
+
+- 티처블 머신으로 강아지, 고양이를 구분하는 모델 학습 
+- 사람 얼굴이 강아지와 가까우면 강아지상, 고양이와 가까우면 고양이상으로 구분하기 
+
+- 고양이, 강아지 사진 데이터셋 다운로드 
+  - https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+
+- 티처블 머신으로 고양이, 강아지 구분하는 모델 학습하기 
+- 학습된 모델로 얼굴 상 구분해보기 
+
+<img width="1061" alt="TM_dogcat2" src="https://user-images.githubusercontent.com/58820851/214253467-074e61e8-4705-449c-85e1-ac12ac1cee5e.PNG">
+
+<img width="1060" alt="TM_dogcat" src="https://user-images.githubusercontent.com/58820851/214253461-11b31cce-4a00-4c76-aa61-640c106d4600.PNG">
+
+
+<br>
+<br>
+
 ---
 
 ## 머신러닝머신 

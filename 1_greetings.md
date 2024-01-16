@@ -1,7 +1,7 @@
 
 ## 환영!
 
-**23학번 신입생 여러분을 환영합니다!**   
+**24학번 신입생 여러분을 환영합니다!**   
 
 빅데이터과 신입생 여러분!! 
 
@@ -35,7 +35,6 @@
 ![](https://gpimg.godpeople.com/2020/04/sns_200429.jpg)
 
 ## 선생님 인사
-<!-- ![신교수 박사모자](https://user-images.githubusercontent.com/10287629/103825781-da345780-50b8-11eb-8f34-1e1a98b2049e.png) -->
 - 이름: 최성은
 - 최근 강의하는 과목
   - 파이썬
@@ -47,22 +46,22 @@
 
 - 걱정과 고민
   - 늘어나는 뱃살, 두턱.. 
-  - 낮아지는 텐션..
+  - 떨어지는 체력
+  - 낮아지는 텐션
   ![텐션](https://images.khan.co.kr/article/2022/10/20/news-p.v1.20221020.9607f7d85dcf4725bc6ac3f4c2a039fa_Z1.png)
 
 
 - 기대와 다짐
   - 내게 주어진 하루를 감사한 마음으로 최선을 다해 살자. 
-  - 새벽수영 시작
-    - 작심삼일이 되지 않기를..  
-
+  - 끊임없이 공부하기 
+  - 꾸준히 운동하기
     - 이상 
-
-  ![수영](https://images.pexels.com/photos/73760/swimming-swimmer-female-race-73760.jpeg?auto=compress&cs=tinysrgb&w=1600)
+  
+     ![수영](https://images.pexels.com/photos/73760/swimming-swimmer-female-race-73760.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
     - 현실
-
-  ![수영](https://media.istockphoto.com/id/1441893159/ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%98%81%EC%9E%A5%EC%97%90%EC%84%9C-%EC%88%98%EC%98%81%ED%95%98%EB%8A%94-%EC%8B%9C%EB%B0%94-%EC%9D%B4%EB%88%84-%EA%B0%9C.jpg?b=1&s=612x612&w=0&k=20&c=GAa9fnkVIV1GbsYgwLX_n2Ket01g6XSjSYrr78EFkB0=)
+  
+      ![수영](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA3MTdfMTgy%2FMDAxNTAwMjU3NTM5MzE2.iHiE_L9w7gOrPaZSwGheHfya9MsED8A5br0qWoASg4Eg.ecHDUCnO4IBt4EQQScqiTFfUuByVUg4hONvg8MNWvjYg.JPEG.vito2020%2F%25BC%25F6%25BF%25B5.jpg&type=sc960_832)
 
 
 <!-- - 고민의 변화  
@@ -78,7 +77,7 @@
 한양여자대학교 빅데이터과 조교수  
 서울특별시 성동구 살곶이길 200 (우: 04763)
 이메일: choise@hywoman.ac.kr      
-연구실: 02-2290-2385
+연구실: 02-2290-2386
 
 
 ## 학생 인사
